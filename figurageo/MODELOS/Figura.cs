@@ -9,6 +9,7 @@ namespace figurageo
         public int _atributo1 { set; get; }
         private int _atributo2 { set; get; }
         protected int _atributo3 { set; get; }
+        protected int _atributo4 { set; get; }
 
         public Figura()
         {
